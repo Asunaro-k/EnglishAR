@@ -5,7 +5,8 @@ iPhone及びiPad専用のアプリであるので、Androidの方は使用でき
 # ダウンロードするためにApple IDを教えてください
 アプリをダウンロードするためにはAppleID(applestoreで使用しているメールアドレス)が事前に必要です。<br>
 https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
-上記のurlからAppleID(メールアドレス)を教えてください。3日から1週間以内に申請を行い、アプリをインストールするための招待メールがTestFlightというサービスから送られてきます。<br>
+上記のurlからAppleID(メールアドレス)を教えてください。3日から1週間以内に申請を行い、アプリをインストールするための招待メールがTestFlightというサービスから送られてきます。<br><br>
+
 
 ※もしわからない人は下記のURLでインストールできます。<br>
 https://testflight.apple.com/join/rSej5p2K
