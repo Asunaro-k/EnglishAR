@@ -8,7 +8,7 @@ https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 上記のurlからAppleID(メールアドレス)を教えてください。3日から1週間以内に申請を行い、アプリをインストールするための招待メールがTestFlightというサービスから送られてきます。<br><br>
 
 
-※もしわからない人は下記のURLでインストールできます。<br>
+※もしわからない人はTestFlightというアプリをスマホにインストールした後に、下記のURLでインストールできます。<br>
 https://testflight.apple.com/join/rSej5p2K
 <br>
 
