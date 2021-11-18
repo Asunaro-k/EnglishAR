@@ -9,6 +9,8 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 2.　testflightをインストール後に下記のurlを押す<br>
 
 https://testflight.apple.com/join/rSej5p2K
+<br>
+※わかりづらかったのでやり方をurlに変更しました。
 <br><br>
 3. 以下のようにEnglishARのアプリ情報が表示されるので「同意する」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259174-18b4764b-b4bb-4979-88a8-d4d2bcf980d7.png)
