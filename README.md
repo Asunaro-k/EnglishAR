@@ -47,7 +47,7 @@ https://testflight.apple.com/join/rSej5p2K
 ![19](https://media.giphy.com/media/2sQNmvx4XYkyzclsyM/giphy.gif)
 <br><br>
 ・Listenモード<br>
-制限時間60秒で発音された英単語を、スマートフォンの画面を動かして探しタッチしていくゲーム<br
+制限時間60秒で発音された英単語を、スマートフォンの画面を動かして探しタッチしていくゲーム<br>
 ![20](https://media.giphy.com/media/nQZm2AdJEDVN3dBig4/giphy.gif)
 <br>
 <br>
