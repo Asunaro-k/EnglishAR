@@ -1,6 +1,7 @@
 # EnglishAR
 EnglishARはiphone用の英語学習用のARアプリです。<br>
 iPhone及びiPad専用のアプリであるので、Androidの方は使用できません。<br>
+※現在、クラッシュする問題を修正しています。もうしばらくお持ちください。機能も追加次第アップデートを行います。<br>
 
 # アプリのインストール方法（iPhoneに入れる方法)
 ## TestFlightというアプリを使用してアプリをスマホに入れます
@@ -55,5 +56,6 @@ https://testflight.apple.com/join/rSej5p2K
 # ご意見アンケートのご協力
 https://forms.gle/PUf4DXo84e4M893m6<br>
 プレイ後に上記のアンケートへのご協力お願いします。
+期限　12月30日
 
 # やり方が分かりづらかったので修正しました。
