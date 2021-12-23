@@ -33,6 +33,7 @@ https://testflight.apple.com/join/rSej5p2K
 ![12](https://user-images.githubusercontent.com/69417078/140611685-bdaa1088-fa47-4787-8c74-cdffe81fe50c.gif)
 <br><br>
 前置詞モードはりんごの位置についての例文が上に表示されます。正しい位置のりんごに赤い球を当ててください。<br>
+<br>※現在この機能は大幅に変更中です。もうしばらくお待ちください。
 ![14](https://user-images.githubusercontent.com/69417078/140611694-841795db-c8a3-4f25-a579-d1830eea7d9b.gif)
 <br><br>
 <br>
